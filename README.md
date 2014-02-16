@@ -27,3 +27,7 @@ Once node is installed on your system all that you need to do is install the dev
     $ grunt
 
 All of the tests for jQuery Masked Input are run using the [jasmine](http://pivotal.github.io/jasmine/) test runner.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/theghostbel/jquery.maskedinput/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
